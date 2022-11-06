@@ -22,7 +22,7 @@ SCRIPT_HOME=$(
 )
 
 SCRIPT_VERSION=1.1.1
-SCRIPT_AUTHOR=liaobaikai@dsgdata.com
+SCRIPT_AUTHOR=baikai.liao@qq.com
 SCRIPT_NAME=$(basename $0)
 separator=","
 encode_separator=$(echo $separator | sed 's/,/0x2C/g')
